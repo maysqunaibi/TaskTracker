@@ -46,12 +46,17 @@ $ php artisan serve
 ```
 Don't forget to make sure that your DB connected!
 
-#### What I can do with TaskTracker?
+----------------------------
+<br>
+<br>
+
+## What can I do with TaskTracker?
+<br>
 
 ![landingPage](https://imgur.com/KAtLCeY.png)
 
 You can what needs to be don to the tasks list!
-![add](https://imgur.com/iPoW6pJ.png)
+![add](https://imgur.com/lcDSV42.png)
 
 You can search any task!
 ![search](https://imgur.com/k540guz.png)
