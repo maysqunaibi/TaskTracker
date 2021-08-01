@@ -7,10 +7,10 @@ Task Tracker app using Vuejs and Laravel API
 
 ## What you should install?
 
-This project is using (Mysql, Laravel, Vuejs) technologies.
+This project is using Laravel, Vuejs and Mysql technologies.
 
 
-Firstly, you should install
+Firstly, make sure to install th following:
 
 -   [php](https://expressjs.com/) 8.0.9+
 -   [Composer/Laravel](https://laravel.com/docs/4.2) 4.2+
@@ -21,7 +21,7 @@ Firstly, you should install
 
 You can clone the app repo or download it in order to run the app.
 
-If you have git installed on your PC, you just need do as follow:
+If you have git installed on your PC, you just need to do as follow:
 
 ```
 $ git clone https://github.com/maysqunaibi/TaskTracker.git
@@ -35,10 +35,9 @@ If you have all the prerequisites installed then :
 $ cd TaskTracker
 $ npm install
 $ npm run hot
-
 ```
 
-Run the PHP server
+Run PHP server:
 
 ```
 $ php artisan serve
@@ -55,7 +54,7 @@ Don't forget to make sure that your DB connected!
 
 ![landingPage](https://imgur.com/KAtLCeY.png)
 
-You can what needs to be don to the tasks list!
+You can add what needs to be don to the tasks list!
 ![add](https://imgur.com/lcDSV42.png)
 
 You can search any task!
