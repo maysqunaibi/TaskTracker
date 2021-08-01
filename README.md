@@ -3,7 +3,7 @@
 
 # Introduction
 
-Task Tracker app using Vuejs and Laravel API [here](https://medium.com/@samarony.barros/how-to-create-your-first-mern-mongodb-express-js-react-js-and-node-js-stack-7e8b20463e66)
+Task Tracker app using Vuejs and Laravel API
 
 ## What you should install?
 
